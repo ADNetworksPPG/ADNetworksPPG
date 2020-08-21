@@ -1,4 +1,4 @@
-  - title: ArchR
+- title: ArchR
   image: /img/resources/ArchR.jpg
   imageLink: https://www.archrproject.com/
   description: 'ArchR is a full-featured R package for processing and analyzing single-cell ATAC-seq data and integrating this with single-cell RNA-seq data.
