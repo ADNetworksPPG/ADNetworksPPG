@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: The Corces Lab
+title: AD Networks PPG
 
 # Short description of your site
-description: The Corces Lab @ The Gladstone Institutes / UCSF
+description: The home of the AD Networks PPG team at the Gladstone Institutes.
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,7 +20,7 @@ description: The Corces Lab @ The Gladstone Institutes / UCSF
 
 # List of links in the navigation bar
 navbar-links:
-  Research: "pages/Research"
+  Goals: "pages/Research"
   Team: "pages/Team"
   Resources: "pages/Resources"
   Publications: "pages/Publications"
@@ -28,7 +28,7 @@ navbar-links:
 
 #This should mirror navbar-links (parents) and be a font-awesome icon
 navbar-icons:
-  Research: "fa fa-flask"
+  Goals: "fa fa-bullseye"
   Team: "fa fa-users"
   Resources: "fa fa-file-code"
   Publications: "fa fa-file-alt"
@@ -72,10 +72,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 # rss: true
-  email: "ryan.corces@gladstone.ucsf.edu"
+  email: "lennart.mucke@gladstone.ucsf.edu"
 # facebook: deanattali
-  github: corceslab
-  twitter: doctorcorces
+  github: ADNetworksPPG
+#  twitter: doctorcorces
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
