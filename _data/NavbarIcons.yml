@@ -3,8 +3,8 @@
 # In addition to that you need to specify the following properties:
 #   icon: Specify a valid fontawesome icon class
 
-Research:
-  icon: "fa fa-flask"
+Goals:
+  icon: "fa fa-trophy"
 
 Team:
   icon: "fa fa-users"

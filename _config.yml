@@ -27,6 +27,7 @@ navbar-links:
   Contact: "pages/Contact"
 
 #This should mirror navbar-links (parents) and be a font-awesome icon
+#THIS ALSO NEEDS TO mirror _data/NavbarIcons
 navbar-icons:
   Goals: "fa fa-trophy"
   Team: "fa fa-users"
