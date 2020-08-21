@@ -56,8 +56,8 @@
   position: Core B Director
   email: katherine.pollard (at) gladstone.ucsf.edu
   scholar: TKmKZSAAAAAJ
-#  twitter: "doctorcorces"
-# orcid: "orcid.org/0000-0003-3345-5960"
+#  twitter: ""
+# orcid: ""
   description: 'Katie Pollard and her team develop statistical and computational methods to compare genomes and use the differences to decode how genomes
   work. Their analyses of massive sets of genomic and epigenomic data include investigating human genetic variation, understanding what makes humans unique
   compared to other species, and characterizing the genomic diversity of the human microbiome, the group of bacteria that populate our digestive system and
@@ -71,7 +71,7 @@
   email: alex.pico (at) gladstone.ucsf.edu
   scholar: FUsTMX8AAAAJ
   twitter: "xanderpico"
-# orcid: "orcid.org/0000-0003-3345-5960"
+# orcid: ""
   description: 'Dr. Pico''s research focuses on understanding the complex networks that make up biological systems. New technologies continue to drive
   the amount and diversity of data types that can be analyzed via network analysis. Dr. Pico develops software tools and resources that help analyze,
   visualize and explore biomedical data in the context of these networks. Dr. Pico is the Executive Director for the National Resource for Network
@@ -79,3 +79,13 @@
   and biophysics from Rockefeller University in 2003, Dr. Pico joined Gladstone as a postdoctoral fellow in the laboratory of Gladstone Senior
   Investigator Bruce R. Conklin, MD, where he focused on bioinformatics and software development. He went on to conceive of and co-found WikiPathways,
   as well as coordinate and contribute to a variety of scientific research tools, including GenMAPP-CS and Cytoscape.'
+
+- name: Reuben Thomas, PhD
+  image: /img/members/NewMember.jpg
+  altimage: /img/members/NewMember.jpg
+  position: Gladstone Bioinformatics Core Associate Director
+  email: reuben.thomas (at) gladstone.ucsf.edu
+  scholar: hLzz_1cAAAAJ
+#  twitter: ""
+# orcid: ""
+  description: 'Add Reuben's bio here
