@@ -63,3 +63,19 @@
   compared to other species, and characterizing the genomic diversity of the human microbiome, the group of bacteria that populate our digestive system and
   other body sites. This evolutionary focus, coupled with rigorous statistical methods and bioinformatics tool development, gives the lab a unique
   perspective on human health and disease.'
+
+- name: Alex Pico, PhD
+  image: /img/members/AlexPico.jpg
+  altimage: /img/members/AlexPico.jpg
+  position: Gladstone Bioinformatics Core Director
+  email: alex.pico (at) gladstone.ucsf.edu
+  scholar: FUsTMX8AAAAJ
+  twitter: "xanderpico"
+# orcid: "orcid.org/0000-0003-3345-5960"
+  description: 'Dr. Pico''s research focuses on understanding the complex networks that make up biological systems. New technologies continue to drive
+  the amount and diversity of data types that can be analyzed via network analysis. Dr. Pico develops software tools and resources that help analyze,
+  visualize and explore biomedical data in the context of these networks. Dr. Pico is the Executive Director for the National Resource for Network
+  Biology (NRNB) and leads the Systems Biology Group for Gladstone Bioinformatics as Associate Director. After obtaining a PhD in molecular neurobiology
+  and biophysics from Rockefeller University in 2003, Dr. Pico joined Gladstone as a postdoctoral fellow in the laboratory of Gladstone Senior
+  Investigator Bruce R. Conklin, MD, where he focused on bioinformatics and software development. He went on to conceive of and co-found WikiPathways,
+  as well as coordinate and contribute to a variety of scientific research tools, including GenMAPP-CS and Cytoscape.'
