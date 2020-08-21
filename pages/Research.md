@@ -1,7 +1,7 @@
 ---
 layout: gridlay
-title: Research
-subtitle: Corces Lab Research
+title: Goals
+subtitle: Project Goals
 ---
 
 <div align="center">
