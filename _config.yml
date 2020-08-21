@@ -20,7 +20,7 @@ description: The home of the AD Networks PPG team at the Gladstone Institutes.
 
 # List of links in the navigation bar
 navbar-links:
-  Goals: "pages/Research"
+  Goals: "pages/Goals"
   Team: "pages/Team"
   Resources: "pages/Resources"
   Publications: "pages/Publications"
@@ -28,7 +28,7 @@ navbar-links:
 
 #This should mirror navbar-links (parents) and be a font-awesome icon
 navbar-icons:
-  Goals: "fa fa-bullseye"
+  Goals: "fa fa-trophy"
   Team: "fa fa-users"
   Resources: "fa fa-file-code"
   Publications: "fa fa-file-alt"
