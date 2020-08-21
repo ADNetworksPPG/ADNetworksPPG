@@ -1,7 +1,7 @@
 ---
 layout: gridlay
 title: Publications
-subtitle: Corces Lab Publications
+subtitle: PPG Publications
 ---
 
 # **Relevant Publications**

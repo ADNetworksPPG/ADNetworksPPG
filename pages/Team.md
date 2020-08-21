@@ -1,7 +1,7 @@
 ---
 layout: gridlay
 title: Team
-subtitle: Corces Lab Members
+subtitle: PPG Team Members
 ---
 
 # **Team Members**

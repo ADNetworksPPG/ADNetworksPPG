@@ -1,7 +1,7 @@
 ---
 layout: gridlay
 title: Resources
-subtitle: Corces Lab Resources
+subtitle: PPG Resources
 ---
 
 # **Resources**
